@@ -38,7 +38,7 @@ class HomeController extends Controller
 
     public function ajouterCommande(Request $request){
         $prix= $request->qte * $request->price;;
-        if ($prix < 120){
+        if ($prix < 130){
             $prix = $prix +19;
         }
 

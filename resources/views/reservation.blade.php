@@ -36,7 +36,7 @@
             <input type="text" class="form-control" id="tel" name="tel">
         </div>
         <div class="mb-3">
-            <label for="tel" class="h6">Votre Tel</label>
+            <label for="tel" class="h6">Votre adresse</label>
             <textarea type="text" class="form-control" id="tel" name="adresse" rows="3"></textarea>
         </div>
         <div class="mb-3">

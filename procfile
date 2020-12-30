@@ -1,0 +1,1 @@
+web : vendor/bin/herroku.php.apache2 public/

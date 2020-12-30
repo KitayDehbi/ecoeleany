@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicons -->
-    <link href="{{asset('img/logooo.png')}}" rel="icon">
+    <!-- <link href="{{asset('img/logooo.png')}}" rel="icon"> -->
     <link href="{{asset('img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->

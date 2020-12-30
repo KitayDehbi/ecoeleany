@@ -5,7 +5,7 @@ var price = document.getElementById("price");
 qte.addEventListener('input', (event) => {
   var temp =qte.value*price.value;
 console.log(temp);
-  if(temp > 350){
+  if(temp > 130){
     totalPrice.textContent= temp +"DH  + Livraison gratuite";
   }
   else{
